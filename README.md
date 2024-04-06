@@ -6,6 +6,7 @@
 
 - Created - 2024-04-05
 
+- Role - Frontend
+
 🧑‍💻 Technologies Used - Html , css 
 
-- Role - Frontend
