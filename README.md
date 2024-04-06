@@ -6,6 +6,6 @@
 
 - Created - 2024-04-05
 
-- Technologies Used - Html , css 
+🧑‍💻 Technologies Used - Html , css 
 
 - Role - Frontend
