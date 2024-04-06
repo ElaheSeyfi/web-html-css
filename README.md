@@ -8,5 +8,5 @@
 
 - Role - Frontend
 
--Technologies Used - Html , css 
+- Technologies Used - Html , css 
 
